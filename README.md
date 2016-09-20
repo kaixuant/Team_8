@@ -1,2 +1,2 @@
 # Team_8
-Syndicate Groups
+Hi, This is our first group work in R. Hope we will do a good job together!
